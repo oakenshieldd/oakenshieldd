@@ -1,2 +1,2 @@
 <div align="center">
-<img width="700" alt="blur_edges" src="https://github.com/user-attachments/assets/4ea873c0-8612-4a13-833a-8ec80f21c20b" />
+<img width="600" alt="blur_edges" src="https://github.com/user-attachments/assets/4ea873c0-8612-4a13-833a-8ec80f21c20b" />
