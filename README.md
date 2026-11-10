@@ -1,5 +1,5 @@
 <div align="center">
-<img width="666" height="58" alt="hh-removebg-preview__fliter--dark-green-sepia__channel--red__mode--normal" src="https://github.com/user-attachments/assets/2505e040-68e3-4e1c-b620-66012c43b9ea" />
+<img width="2000" alt="blur_edges (1)" src="https://github.com/user-attachments/assets/99011664-0077-4820-822d-a6d91ea930bb" />
 
 
 <div align="center">
@@ -13,4 +13,4 @@
 i give up
 
 <div align="center">
-<img width="666" height="58" alt="hh-removebg-preview__fliter--dark-green-sepia__channel--red__mode--normal" src="https://github.com/user-attachments/assets/2428fe79-5e9c-4d7c-ae91-ea0ee3837e6c" />
+<img width="2000" alt="blur_edges (1)" src="https://github.com/user-attachments/assets/99011664-0077-4820-822d-a6d91ea930bb" />
