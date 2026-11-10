@@ -1,2 +1,1 @@
-<img width="700" alt="Untitled__fliter--dark-green-sepia__channel--red__mode--normal" src="https://github.com/user-attachments/assets/dd51f8ea-1bc2-45d7-bf71-2fae47f07d1f" />
-
+<img width="700" alt="blur_edges" src="https://github.com/user-attachments/assets/4ea873c0-8612-4a13-833a-8ec80f21c20b" />
