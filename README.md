@@ -3,4 +3,7 @@
 
 
 [straw](https://lxgolas.straw.page/)
-<a href="https://lxgolas.straw.page/" style="D7B893: black; text-decoration: underline;text-decoration-style: dotted;">
+<a href="https://lxgolas.straw.page/" style="color: D7B893; text-decoration: underline;text-decoration-style: dotted;">
+
+
+i give up
